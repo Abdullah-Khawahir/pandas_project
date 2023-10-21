@@ -1,0 +1,847 @@
+Asset tag number,Cluster,Facility type,Facility name,District,Existing facility code,Existing Floor number,Existing Room number,Building address,Building name,Existing building code,Department / management,Custodian name,Custodian National ID / Iqama,Asset class,Asset description,Asset manufacturer,Asset model,Serial number,PCs processor,hard disk types,Ram size,Condition 
+E1-171-00018339,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Accommodation,ناصر الزهراني,,,PC,Lenovo,,P0H0581,Core i5,HDD,4GB,
+E1-171-00018350,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Accommodation,,,,PC,DELL,,1YTR326,,HDD,4GB,
+E1-171-00018359,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Accommodation,ناصر الزهره,,,PC,ACER,,,,HDD,3GB,device_status: سيئ
+E1-171-00024253,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Accommodation,ناصر الزامل,,,PC,DELL,,N3K3,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Accommodation,,,,PRINTER,HP,,CNDXJ3DHT5,,,,
+E1-171-00005177,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ADMISSION/DISCHARGE,محمد العاقل,,,PC,DELL,9020,9VTPG42,,HDD,4GB,device_status: ممتاز
+E1-171-00005194,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ADMISSION/DISCHARGE,محمد ال عادل,,,PC,DELL,9020,66LNG42,,HDD,4GB,
+E1-171-00000316,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BED MANAGEMENT,ماجد ال سيف,,,PC,DELL,380,DT358BS,,HDD,2012GB,device_status: ممتاز
+E1-171-00015885,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BED MANAGEMENT,ماجد ال سيف,,,PC,HP,,CZC8014HYV,,HDD,3062GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BED MANAGEMENT,ماجد ال سيف,,,PC,DELL,780,J79N32S,,HDD,,
+E1- 171-00003952,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BIOMEDICAL,فاضل صباخ ,,,PC,DELL, 7040,18C6SG2,,HDD,4GB,device_status: جيد جدا
+E1-171-00001902,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BIOMEDICAL,فاضل صباخ ,,,PRINTER,Zebra,,41J092000846,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BIOMEDICAL,فاضل صباخ ,,,PRINTER,Zebra,,D0J192803999,,,,device_status: جيد
+E1-171-00001429,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL, 3010,6TKCG2S,,HDD,4GB,
+E1-171-00002727,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL, 7040 ,7BTK3K2,,HDD,4GB,
+E1-171-00002733,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL, 7040,4LYMVB2,,HDD,4GB,device_status: 
+E1-171-00002834,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,HP,,CZC8014069,,HDD,2GB,device_status: جيد جدا
+E1-171-00002998,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,7040,7BMS3K2,,HDD,4GB,
+E1-171-00003007,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,HP,,CZC926FNB1,,HDD,8GB,
+E1-171-00003116,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,حسين سويد,,,PC,DELL, 9020,HBT2122,,HDD,4GB,device_status: جيد جدا
+E1-171-00003139,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,حسين سويد,,,PC,DELL,9010,DJ17F2S,,HDD,4GB,
+E1-171-00003290,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL,380,2973721672,,HDD,2GB,device_status: جيد جدا
+E1-171-00005295,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,380,172BG2S,,HDD,4GB,device_status: جيد جدا
+E1-171-00005555,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL,9010,8BHKHT1,,HDD,4GB,device_status: جيد جدا
+E1-171-00005652,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريفي,,,PC,DELL,9010,7066283077,,HDD,8GB,device_status: جيد جدا
+E1-171-00005857,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL,,2JQKCV,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,HP,,CZC930CQ5G,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL, 7060 ,28NDCV2,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL,7060,272FCV2,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,HP,,CZC9277DCN,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,انهار السادة,,,PC,HP,,CZC92789TW,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,حسين سويد,,,PC,HP,,CZC92789V1,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,HP,,C2C92770VN,,HDD,8GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,7040,DYVSXB2,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL, 9010,4CNLHT1,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,390,9SWGHT1,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,9010,FZ1BG2S,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,7040,D5WSXB2,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,7040,1H74SG2,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,جعفر السادة,,,PC,DELL,7040,78NQ3K2,,HDD,4GB,device_status: ممتاز
+E1-171-00002735,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,41J112400169,,,,device_status: ممتاز
+E1-171-00002745,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,45J151802770,,,,device_status: ممتاز
+E1-171-00002835,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PC,HP,,CZC8014HYM,,HDD,,device_status: ممتاز
+E1-171-00002839,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,hanaa alshqaq,,,PC,DELL,780,G4VR32S,,HDD,,device_status: ممتاز
+E1-171-00002841,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,,,,PC,Lenovo,,1510KW005NAXPCOESOY,,HDD,,device_status: ممتاز
+E1-171-00003008,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,41J084701670,,,,
+E1-171-00003048,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,41J084302549,,,,device_status: جيد
+E1-171-00003139,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,محمد عبدالله ,,,PC,DELL,,DJ17F2A,,HDD,4GB,device_status: ممتاز
+E1-171-00003285,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,4J112400194,,,,
+E1-171-00003287,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,29J171003644,,,,device_status: جيد
+E1-171-00003648,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,ولاء بركات,,,PC,HP,,GD850AV,,HDD,,device_status: ممتاز
+E1-171-00003658,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,د/هالا,,,PC,HP,,3CB947263,,HDD,,device_status: جيد
+E1-171-00005556,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Zebra,,4J109200842,,,,device_status: ممتاز 
+E1-171-00012339,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,احمد الناصر,,,PC,DELL, 7040,7BCP3K2,,HDD,4GB,
+E1-171-0001411,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,جعفر,,,Printer,DELL,,172pj2s,,,,device_status: 
+E1-171-0002492,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,نور الفرج,,,PC,DELL, 7040,HXDXSF2,,HDD,8GB,device_status: ممتاز
+Е1-171-00011091,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,احمد الناصر,,,PC,DELL,7040,1917SG2,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,مصطفى الاسود,,,PC,HP,,CZC926FNGM,i5,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,مصطفى الأسود,,,PC,DELL, 7040,6QYMVB2,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,مصطفى الأسود,,,PC,HP,,CZC9279W7,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,سميرة الصفوان,,,PC,HP,,CZC8277WSM,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,ولاء بركات,,,PC,DELL,,8NZH6DS,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,CANON,,LL121E,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,CANON,,RWB29435,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,HP,,CNC0P53797,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,HP,,CE461A,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,HP,,CNC0M51666,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,ZEBRA,,31J201100123,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,HP,,CNC2036411,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,ZEBRA,,29J171003638,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,ZEBRA,,31J201100156,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,HP,,VNH4R00483,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,ZEBRA,,31j201100132,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,فاطمة الغانم,,,PC,HP,,GD850/V,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,مختبر العيادات,,,Printer,Zebra,,54J131600907,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,مختبر العيادات,,,Printer,Zebra,,54J131600934,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,مختبر العيادات,,,Printer,Zebra,,29J171003619,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,مختبر العيادات,,,Printer,HP,,VNC3157512,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,مختبر العيادات,,,Printer,Zebra,,41J102201760,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,مختبر العيادات,,,Printer,Zebra,,29J171003625,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,Canon,,NCY125706,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,HP,,PHCRPC94P8,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK AND LABORATORY,جعفر,,,PRINTER,HP,,PHCRPC94WJ,,,,
+E1-171-00002999,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CARDIAC LAB,جعفر,,,PRINTER,Zebra,,4J112401102,,,,
+E1-171-00003490,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Cardiac lab,ازهار,,,PC,DELL,9020,F0HBHZ1,,HDD,4GB,device_status: ممتاز
+E1-171-00008695,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CARDIAC LAB,,,,PC,HP,,CNC0L45823,,HDD,,device_status: 
+E1-171-00030630,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Cardiac lab,ماريا,,,PC,acer,,1CG6SG2,,HDD,4GB,device_status: ممتاز
+E1-171-105-00026471,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CARDIAC LAB,,,,PRINTER,HP,,CNDXK3L0M8,,,,
+E1-171-00013456,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة حمود,,,PC,DELL,9010,JNLQWX1,,HDD,8GB,device_status: ممتاز
+E1-171-00015136,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة,,,PRINTER,HP,,CNDXG781XF,,,,
+E1-171-00015162,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة ال حمود,,,PC,DELL,9010,1FG6SG2,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة حمود,,,PC,HP,,CZC926FN7Z,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة حمود,,,PC,HP,,CZC92FNGD,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة حمود,,,PC,HP,,CZC9277WVS,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة,,,PRINTER,Zebra,,31G201100127,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,صالحة,,,PRINTER,HP,,CNCJK95838,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CCU,,,,PC,DELL,,H2RMHT1,,HDD,3983GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CLINICAL AUDIT,,,,PC,HP,,4CE243B3H6,Core i7,HDD,8GB,
+E1-171-00005313,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CSSD,,,,PRINTER,HP,,VNH5H00582,,,,device_status: ممتاز
+E1-171-00005314,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CSSD,باسم السنان,,,PC,DELL,9010,6JNBG2S,,HDD,4GB,device_status: ممتاز
+E1-171-00005339,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CSSD,باسم السنان ,,,PC,DELL,7040 ,53T7SG2,,HDD,8GB,device_status: ممتاز
+E1-171-00005432,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CSSD,,,,PRINTER,HP,,PHCGD10522,,,,device_status: ممتاز
+E1-171-00005720,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CSSD,,,,PRINTER,HP,,VNF8W21182,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,CSSD,,,,PRINTER,HP,,PHCGB17689,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,HP,PRODESK,CZC9277WTT,I5,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,HP,,CZC9277DDS,,HDD,,device_status: ممتاز
+E1-171-00006387,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DAY SURGERY,زينب النخلي,,,PC,HP,,CZC801408S,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Day Surgery,زينب,,,PC,HP,,Vn819eaabv,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DAY SURGERY,زينب,,,PRINTER,HP,,CNCK20,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DAY SURGERY,زينب,,,PRINTER,HP,,CNDXX3L0PD,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Denta,فاطمة الاحمد,,,PC,HP,,CZC0197RQ2,,HDD,8GB,
+E1-171-00001382,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Dental,اماني الجواد,,,PC,DELL,9020,86RL322,,HDD,4GB,device_status: 
+E1-171-00004848,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Dental,,,,PRINTER,HP,,CNCK201856,,,,
+E1-171-00009888,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Dental,,,,PC,DELL, 9010,FYT1YX1,,HDD,8GB ,device_status: ممتاز
+E1-171-00011813,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Dental,اماني جواد,,,PC,,,CSBNR12,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Dental,اماني جواد,,,PC,DELL,7040,1HZ6SG2,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Dental,اطباء الاسنان,,,Printer,Canon,,QXN13463,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DENTAL,عيادات الاسنان ,,,PC,HP,,CZC92789VH,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DENTAL,,,,PC,HP,,4CE145D77F,,HDD,7969GB,device_status: ممتاز
+E1-171-00028657,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسم ال طلاق,,,PC,DELL,7040,CQ3SD82,,HDD,8GB,
+E1-171-00028659,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسل ال طلاق,,,PC,DELL, 7010,4Q4QQ12,,HDD,8GB,device_status: 
+E1-171-00030295,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسل ال طلاق,,,PC,DELL,7040,GSYMVB2,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,,,,PC,DELL,,52C3SG2,Core i7,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,زهير,,,PC,DELL,7050,1P2GCM2,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسم ال طلاق,,,PC,DELL,7040,8QXSXB2,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسم ال طلاق,,,PC,DELL,9020,11034471890,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,احمد المغيص,,,PC,HP,,CZC92789TS,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسل ال طلاق,,,PC,DELL,7040,2WXMVB2,,SSD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,هبه سهوان,,,PC,DELL,7010,82RGQ12,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,نهار حمادة,,,PC,,,D1RGQ12,,SSD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسم ال طلاق,,,PC,DELL,7010,6P4QQ12,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسم ال طلاق,,,PC,DELL,7040,H0YMVB2,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,حسن علي عرقان,,,PC,DELL,7050 ,4Q99WL2,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسل ال طلاق,,,PC,HP,,TRF34516HV,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITION,,,,PC,HP,,Czc92789ts,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITION,باسم ال طلاق,,,PC,HP,,2ztr32s,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITION,باسم ال طلاق,,,PC,DELL,7010,CQ4QQ12,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITION,باسم ال طلاق,,,Scanner,Canon,,JA471403,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITION,زهير ,,,PC,HP,,CZC930CQ84,,HDD,8GB,device_status: ممتاز
+E1-171-00001108,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,فاطمة الهاشم,,,PC,DELL,9020,4VHLR12,,HDD,4GB,device_status: ممتاز
+E1-171-00001208,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,رباب ابو ورور,,,PC,LENOVO,,1S10AS0006AXPC05BLGA,,hDD,4GB,
+E1-171-00001222,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,اشرف المرهون,,,PC,DELL,9010,CSHCG2S,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,,,,PRINTER,CANON,,QXN13464,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,اشرف المرهون,,,PC,DELL,7060,2G3JCV2,,HDD,8GB,
+E1-171-00000488,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,pc,LENOVO,,1S10KW0068AXPC0H0529,,HDD,,device_status: ممتاز
+E1-171-00001239,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,زينب العلوي,,,PC,DELL,,TXPRD5J,,HDD,8GB,device_status: ممتاز
+E1-171-00016423,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,زينب العلوي,,,PC,DELL, 9010,G1SCG2S,,HDD,8GB,device_status: ممتاز
+E1-171-00017478,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,PC,DELL,9010,JFHCG2S,,HDD,3983,device_status: ممتاز
+E1-171-00017489,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,pc,DELL,9010,1B2BG2S,,HDD,,device_status: ممتاز
+E1-171-00019115,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,PRINTER,ZEBRA,,29J1717004572,,,,device_status: ممتاز
+E1-171-00019251,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,DELL,380,55JM6BS,,HDD,2GB,device_status: ممتاز
+E1-171-00019325,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,DELL,9010,4LNMWX1,,SDD,4GB,
+E1-171-00029579,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,PRINTER,HP,,85YD5CNDXG,,,,device_status: ممتاز
+E1-171-00032262,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,DELL,7040,68CSG2S,,SSD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,HP,,CZC926FMYF,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,HP,,C2C926FMSG,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,HP,,CZC926FMSH,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,محمد العاقل,,,PC,HP,,CZC92789VT,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,زينب العلوي,,,PC,LENOVO,,CZC930CQ4L,,HDD,4GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,زينب العلوي,,,PC,DELL,,FQY93T2,,SSD,8GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Emergency Room,,,,PC,HP,,CZC926FN03,,SDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,PC,HP,,CZC9277DF9,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,فحص نساء,,,PC,HP,,CZC9277DH8,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,,,,PC,HP,,CZC930CQ58,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,رقية,,,PC,DELL,,1J0CSQ2,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,رقية,,,PC,HP,,CZC926FMSY,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,رقية,,,PC,HP,,CZC926FMY6,,HDD,8GB,
+E1-171-00001431,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM ,رأفت ,,,PC,DELL,,34BVG42,,HDD,4003,
+E1-171-00004577,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM ,رأفت ,,,PC,DELL,,83SCG2S,,HDD,3983,
+E1-171-00019317,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM ,,,,PRINTER,Zebra,,29J171100476,,,,
+E1-181-00000040,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM ,,,,PC,HP,,TRF42101HG,,HDD,3984,
+E1-171-00004706,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ENDOSCOPY,زهراء التلاقف,,,PC,DELL,,CZC9473L39,,HDD,4GB,
+E1-171-00004714,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ENDOSCOPY,,,,PRINTER,,,CNCKH09875,,,,
+E1-171-00005028,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ENDOSCOPY,زهراء التلاقف,,,PRINTER,,,54J131601275,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ENDOSCOPY,,,,PC,DELL,,1CP8CQ2,,HDD,3961GB,
+E1-171-00008894,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ENT,,,,PC,DELL,,6CV0YX1,,HDD,4051GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ENT,,,,PC,DELL,,FQM3S12,,HDD,4GB,
+E1-171-00000043,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Environmental Health,,,,Priner,HP,,PHCRPC94TT,,,,device_status: 
+LaserJet pro M402n,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Finace,خليل,,,PC,HP,,4CE14577Q,,HDD,8GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Finace,,,,PC,HP,,4CE145D77Q,,HDD,8GB,
+E1-171-00001048,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Finance,,,,Printer,Brother,,E66821M9J453222,,,,
+E1-171-00001419,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Finance,,,,Printer,HP,,VNC4L39374,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FINANCE,عبدالله المغيسل,,,PC,DELL,,1HTBSG2,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FINANCE,,,,PC,DELL,,1627SG2,,HDD,4GB,device_status: جيد
+E1-171-00001110,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMS,جميل الثواب,,,PC,DELL,,15M3S12,,HDD,4GB,device_status: ممتاز 
+E1-171-00019865,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMS,جميل العليوات,,,PC,HP,,TRF4050QHV,,HDD,4GB,device_status: ممتاز 
+E1-171-00020369,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMS,جميل العليوات,,,PC,DELL,,B7L3S12,,HDD,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMS,جميل العليوات,,,PC,HP,,CZC0197RH7,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMS,جميل العليوات,,,PC,DELL,,G77D6Q1,,HDD,2GB,
+E1-171-00006579,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,مريم طويلب ,,,PC,DELL,,83V1YX1,,HDD,8GB,
+E1-171-00007048,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,حمدة,,,PC,DELL,,FSKD3TD,,HDD,8GB,
+E1-171-00007344,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,حمده,,,PC,HP,,3CB94725HR,,HDD,,device_status: سيئ
+E1-171-0001377,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,,,,PC,HP,,3CB94724HL,,HDD,2GB,
+E1-171-00023712,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,مريم طويلب ,,,Priner,Zebra,,29J171003616,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,حمده,,,PC,DELL,,1B68G2F,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,مريم طويلب ,,,Priner,HP,,CNDXJ3GHB8,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,حمده,,,PC,HP,,CZC926FNMZC,,HDD,8GB,
+E1-171-00006578,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW,مريم طويلب,,,PC,DELL,,28TXXX1,,HDD,4GB,device_status: ممتاز 
+E1-171-00023721,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW ,مريم طويلب,,,PC,DELL,,79V2YX1,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW ,,,,PRINTER,HP,,VNH4R00436,,,,
+E1-171-00019062,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care vis,ليل دهنيم,,,PC,DELL,,26ZHCV2,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care vis,ليل دهنيم,,,PC,DELL,,BMORG42,,HDD,4GB,device_status: سيئ
+E1-171-00018713,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,ليل دهنيم,,,PC,DELL,,FV2F3T2,,HDD,8GB,device_status: جيد جدا
+E1-171-00018714,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,ليل دهنيم,,,PC,DELL,,1S9VG42,,HDD,4GB,device_status: ممتاز 
+E1-171-00019074,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,ليل الدهنيم,,,PC,DELL,,1SQRG42,,HDD,4GB,device_status: جيد جدا
+Е1-171-00018700,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,ليل دهنيم,,,PC,DELL,,C8ZPG42,,HDD,4GB,device_status: جيد
+Е1-171-00019082,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,ليل دهنيم,,,PC,DELL,,18QRG42,,HDD,4GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,ليل دهنيم,,,PC,DELL,,JSMKNE1,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Home health care visit,,,,PRINTER,ZEBRA,,41J112401112,,,,device_status: جيد جدا
+E1-171-00000933,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,HUMAN RESOURCE,علي الخضراوي,,,PC,DELL,,8YDCG2S,,HDD,4GB,device_status: جيد جدا
+E1-171-00001127,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,HUMAN RESOURCE,زكي حاتم,,,PC,DELL,,B2F45C2,,HDD,4GB,
+E1-171-00001141,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,HUMAN RESOURCE,زكي حاتم,,,PC,HP,,TRF31409S3,,HDD,4GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,HUMAN RESOURCE,علي  ,,,PC,ACER,,"240VAC,3.15A,50H2-220",,HDD,8GB ,device_status: جيد جدا
+E1-171-00017003,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,HP,,VN819EA#ABV,,HDD,2GB,device_status: ممتاز 
+E1-171-00017008,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,DELL,,7XXMR12,,HDD,2GB,
+E1-171-00017029,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,ACER,,PVSFDE900212000E753000,I3,HDD,3GB,
+E1-171-00018382,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,ليلى الدهني ,,,PC,,,DNI210505D5,,HDD,2GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,مجيد محمد علي,,,PC,HP,,CZC930CQ07,,HDD,8GB,device_status: ممتاز 
+NONE,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,HP,PRODESK,CZC930CQ5S,I5,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد,,,PC,,,GTHLR12,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,مازن,,,PC,HP,,CZC926MVV,,HDD,8GB,device_status: ممتاز 
+1162,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,PC,DELL,,Q9RR122,,HDD,4GB,device_status: ممتاز 
+20TA-00YAD,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,Laptop,,,PF-2JQTCB,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,,,,PRINTER,ZEBRA,,29J171004507,,,,device_status: 
+E1-171-00000477,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,,,,PC,HP,COMRAQ,3CB94725XZ,CORE DUE,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,PC,HP,,CZC930CP4G,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,PC,HP,,TRF340C5V,,HDD,4GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,Printer,HP,,PHCRPC94V2,,,,device_status: 
+E1-171-00001729,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,نجيب,,,pc,HP,PRODESK,CZC9277D5,I5,HDD,,device_status: 
+E1-171-00001704,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,نجيب,,,pc,HP,PRODESK,CZC930CQX1,I5,HDD,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,نجيب,,,PC,DELL,,82J5822,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B -,,,,PRINTER,HP,,PHCRPC94PT,,,,device_status: 
+E1-171-00014007,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PRINTER,HP,,CNCJ788565,,,,device_status: 
+E1-171-00014010,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,DELL,3020,5YTR32S,,HDD,,device_status: 
+E1-171-00014021,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,ايمان الهجهوج,,,PC,DELL, 780,4YTR32S,,HDD,2GB,device_status: جيد
+E1-171-00014064,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,HP,,VNC3808114,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PRINTER,CANON,,NZS52419,,,,device_status: 
+E1-171-00014504,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Inventory contro,مقبل الشمري,,,PC,HP,,CZC8122847,,HDD,,device_status: 
+E1-171-00008382,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INVENTORY CONTROL,حسين سواري,,,PC,DELL, 780,5LRC252,,HDD,8GB,device_status: 
+E1-171-00014458,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INVENTORY CONTROL,مقبل الشمري ,,,PC,HP,,CZC9473DZW,,HDD,3GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Inventory control,,,,PRINTER,HP,,VNC6G49811,,,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Inventory control,,,,PRINTER,RICOH,,T292M880956,,,,device_status: 
+E1-171-00001427,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,مريم القمر,,,PC,DELL,390,CWPRD5J,,HDD,4GB,device_status: 
+E1-171-00012703,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,مريم القمر,,,PC,DELL,,F5VR32S,core duo,HDD,2GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,دعاء المعلم,,,PC,DELL,7060,28KDCV2,i7,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,مريم القمر,,,PC,DELL,,H5V2YX1,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Maintenance,حسن القاسم,,,PC,HP,,CZC9277DG2,,HDD,8GB ,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MAINTENANCE,,,,PC,HP,,CZC0117XCJ,,HDD,2GB,
+E1-171-000,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORDINATION,ماجد,,,PC,HP,,k94724cb3,,HDD,2GB,
+E1-171-00000008,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORDINATION,ماجد,,,PC,HP,,VNH5H00583,,HDD,,
+E1-171-00000397,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORDINATION,ماجد,,,PC,HP,,Cnb7h369bp,,HDD,2GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORDINATION,ماجد,,,PRINTER,HP,,PHB8HC388Q,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORDINATION,,,,PC,HP,,CNDRPB83FW,,HDD,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORINATION,,,,PC,DELL,,7G242W2,,SSD,8GB,device_status: 
+E1-171-00010197,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,DR9M7BS,,HDD,,device_status: ممتاز 
+E1-171-00015354,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,5RYMVB2,,HDD,4GB,device_status: 
+E1-171-00015359,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,4CV2YX1,,HDD,8GB,device_status: ممتاز 
+E1-171-00015906,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,5L2K252,,HDD,8GB,device_status: 
+E1-171-00015946,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,7BYJ3K2,,HDD,1504GB,device_status: ممتاز 
+E1-171-00015957,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,FR1H3T2,,HDD,8GB,device_status: سيئ
+E1-171-00016658,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,GN9RR12,,HDD,4GB,
+E1-171-00016666,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,5LGJ2S2,,SDD,8GB,device_status: 
+E1-171-00018424,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,BQYMVB2,,HDD,,device_status: 
+E1-171-00018443,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,GJYMVB2,,HDD,4GB,device_status: 
+E1-171-00018445,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,4WJOF82,,HDD,4GB,device_status: ممتاز 
+E1-171-00018459,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,GWJ0F82,,HDD,4GB,device_status: ممتاز 
+E1-171-00018482,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,FRNB3T2,,HDD,8GB,
+E1-171-00018491,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,JXXMR12,,HDD,4GB,device_status: 
+E1-171-00018820,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC8014HYP,,HDD,3GB,device_status: ممتاز 
+E1-171-00018891,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC926FGJ,,HDD,8GB,
+E1-171-00018895,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,7BRM3K2,,HDD,4GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,,,,PRINTER,HP,,CNDXG5YD8D,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,,,,PRINTER,CANON,,21FRV83835,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,,,,PRINTER,HP,,CNBW879380,,,,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,,,,PRINTER,HP,,CNDXK241Y3,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,,,,PRINTER,CANON,,21NNA37529,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC926FNG2,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,1CZ124018,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC9456NWK,,HDD,2GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL, 780,7VTR32S,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,1CZ1240339,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,755,JN46QF1,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC926FMWX,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,1CZ12402ZF,,HDD,8GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC926FNB6,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,1CZ12403DW,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC9277CY4,,HDD,8GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC930CQ3H,,HDD,8GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC9278B08,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,7040,19D6SG2,,HDD,4GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,C7C8015B12,,HDD,2.5GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC9277CYA,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL, 3542,FT5D312,,HDD,8GB,device_status: غير صالح للاستخدام
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,بدر الامرد,,,PC,,,SH67H00401D0200588,,HDD,16GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,,2KGCV2,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC92789W8,,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,9010,4FFC5W1,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,بدر الامرد,,,PC,HP,,CZC8014013,,HDD,,device_status: غير صالح للاستخدام
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,,CZC8013ZS7,,HDD,2GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,DELL,7060,FRGB3T2,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,,,,PC,Lenovo,,1sS10K0068AXPCOH053Y,,HDD,8GB,device_status: ممتاز 
+E1-171-00000342,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,نضال المطيلق,,,PC,DELL,9010,5MZ6F2S,,HDD,4GB,device_status: 
+E1-171-00000343,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,نضال المطيلق,,,PC,HP,,CZCS456P0T,,HDD,547GB,device_status: ممتاز 
+E1-171-00000347,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,, ,,,MEDICAL REPORT,نضال المطيلق,,,PC,DELL, HP PRO 400,5LS68BS,,HDD,2GB,
+E1-171-00000507,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,نضال المطيلق,,,PC,DELL,,1HQ8SG2,,HDD,12GB,device_status: ممتاز 
+E1-171-00000578,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Report,نضال,,,PC,DELL, 9010,CRB6F2S,,HDD,6GB,device_status: غير صالح للاستخدام
+E1-171-00003259,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,نضال المطيلق,,,PC,HP,,3CB94724TL,,HDD,,
+E1-171-00015336,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PRINTER,ZEBRA,,54j131601248,,,,
+E1-171-00015346,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,DELL, 7040 ,2TYMVB2,,HDD,3977GB,device_status: 
+E1-171-00015355,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,,,A1VA000414,,HDD,,device_status: 
+E1-171-00015827,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,DELL,7060,2KQGCV2,,HDD,2989GB,device_status: 
+E1-171-00015859,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,DELL,7060,5MVG2S2,,HDD,7990GB,device_status: 
+E1-171-00015860,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,DELL,7060,S32VR1F,,HDD,1996GB,device_status: 
+E1-171-00015963,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PRINTER,ZEBRA,,29J152601151,,,,device_status: 
+E1-171-00018448,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,DELL,,82F0WJ4,,HDD,3980GB,device_status: 
+E1-171-00028001,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,نضال المطيلق,,,PC,DELL,,28RKCV2,,HDD,8GB,device_status: 
+E1471-00000688,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Report,نضال,,,PC,DELL, 9010,2617F2S,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Report,,,,PRINTER,HP,,CNCJ792820,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Report,,,,PRINTER,HP,,CNCXG3P1W0,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Report,,,,PRINTER,HP,,CNCJN35984,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,حميد,,,PC,HP,,Cndxj3ghnm,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,HP,,CZC92789W4,,HDD,8036GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,HP,,CZC926FMSZ,,HDD,8036GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,HP,,CZC926FN5D,,HDD,8036GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,DELL,,29946909592,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PRINTER,EPSON,,X5DS020837,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,,,CZC9277FCC,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,,,41J112400168,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,,,CZC92789X7,,HDD,,device_status: ممتاز 
+Color Lasejet pro M254NW,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medicine,قاسم,,,PC,HP,,4CE243B3JM,,HDD,8GB,device_status: ممتاز 
+E1-171-00007181,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,,,,PC,DELL,,CFHBH21,,HDD,4GB,device_status: ممتاز 
+E1-171-00007228,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,منى الغانم,,,PC,LENOVO,,BC05900F,,HDD,4GB,device_status: ممتاز 
+E1-171-00007324,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,الأطباء المقيمين - الباطنية ,,,PC,HP,,3CB94725D5,,HDD,419,device_status: ممتاز 
+E1-171-00014135,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,قاسم,,,PC,DELL,9020,4MHBHZ1,,HDD,6GB,device_status: ممتاز 
+E1-17100023722 ,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,منى الغانم,,,PRINTER,HP,,CNE8G8SKV9,,,,device_status: جيد
+E1-171-0015018,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,احمد,,,PC,DELL, 9020,F77P102,,HDD,4GB,device_status: ممتاز 
+E1-183-000276,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,جهاز مشترك,,,PC,DELL,,36167329369,,HDD,4GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,منى الغانم,,,PC,DELL,,9EHBHZ1,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,,,,PC,DELL, 8910,15C3SG2,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,,,,PC,HP,HP PRO 3010 MT ,czc9456kq8,,HDD,3GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,مصطفى,,,PC,DELL,,4GSCG2S,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSD,,,,PC,HP,,CZC65073B6,,HDD,4GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSW,,,,Printer,Zebra,,29J171003618,,,,
+E1-171-00015065,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PRINTER,HP,,VNC3C163AT,,,,device_status: ممتاز 
+E1-171-00017817,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PC,DELL,,JVKXMF1,,HDD,2GB,device_status: ممتاز 
+E1-171-00017988,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PRINTER,HP,,CNCJH77342,,,,device_status: ممتاز 
+E1-171-00019010,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PC,HP,,D1SCG2S,,HDD,3983GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PRINTER,HP,,VNH5H00233,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PC,DELL,390,6YPRD5J,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NSG,,,,PC,HP,,4CE145D77K,,HDD,8GB ,device_status: جيد جدا
+E1-171-00010836,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NURSERY,ابتهال البصري,,,PC,DELL, 9010,G7TYXX1,,HDD,8GB,device_status: ممتاز 
+E1-171-00010848,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NURSERY,ابتهال البصري,,,PC,DELL,,3JNMWX1,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NURSERY,ابتهال البصري,,,PC,DELL,,C7HH35J,,HDD,2GB,device_status: 
+E1-171-00029756,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NURSING ADMINISTRATION,زينب شيخ عبدلله,,,PRINTER,ZEBRA,,29J171102670,,,,device_status: ممتاز 
+E1-171-00021044,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Nursing Administration services,فاطمة الاحمد,,,PC,HP,,GO850AV,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Nursing Administration services,,,,PC,DELL,780,J5J272S,,HDD,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Nursing Administration services,,,,PC,DELL,755,FX5DLF1,,HDD,,device_status: جيد جدا
+E1-171-0000995,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,,,,PC,HP,HP ELITEDESK 800 G6,4CE145D75S,,HDD,8GB,device_status: ممتاز
+E1-171-00010294,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,سكرتارية الاطفال,,,Printer,HP,,VNC6F84831,,,,device_status: جيد جدا
+E1-171-00020093,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Occupational Health,فاطمة الاحمد,,,PC,HP,,GC454AV,,HDD,3.5GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Occupational Health,هاجر ال كاظم,,,PC,DELL, 9020,1849N02,,HDD,3GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Occupational Health,هاجر ال كاظم,,,PC,DELL,780,9Y8N32S,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Occupational Health,وفاء ابو علي,,,PC,DELL,,6PTY2S,,HDD,4GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Occupational Health,,,,PRINTER,HP,,CNGGG4B9N7,,,,device_status: ممتاز 
+E1-171 00023831,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد ,,,PC,DELL, 9010,D6TZXX1,,HDD,969,device_status: جيد جدا
+E1-17100001901,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,زكية,,,PC,,9020,8XL2S12,,HDD,4GB,device_status: جيد جدا
+E1-171-00003532,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,حميد الشاخوري,,,PC,HP,,VN970EA#ABV,,HDD,2GB,device_status: جيد جدا
+E1-171-00003797,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,HP,,CZC8014HT4,,HDD,,device_status: ممتاز
+E1-171-0000538,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,خدمة المستفيد,,,Printer,HP,,VNH5H00571,,,,
+E1-171-00005749 ,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,pc,LENOVO,,1S10AS0006AXPC05BLFV,,HDD,4009,device_status: جيد جدا
+E1-171-00006830,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,DELL,,4TV1122,,HDD,4GB,device_status: جيد جدا
+E1-171-00006834,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الصيدلية  ,,,PC,DELL,,8VXMR12,,HDD,4005,
+E1-171-00006862,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,DELL,7040 ,1NF45C2,,HDD,4GB,
+E1-171-00007559,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,كميل ال قاوز,,,PC,DELL,,25V1YX1,,HDD,8GB,device_status: ممتاز 
+E1-171-00007735,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نساء و ولادة,,,PC,DELL,7040,1J25SG2,,HDD,3961,device_status: 
+E1-171-00007802,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,اسيا الحساوي,,,PC,Lenovo,,1510AS0006AXPC05902W,,HDD,4GB,device_status: ممتاز 
+E1-171-00007815,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,منى الحميد,,,PC,HP,,CZC926FMVP,,HDD,8GB ,device_status: ممتاز 
+E1-171-00007820,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,خديجة محمد علي,,,PC,DELL,,DYT4YXI,,hDD,8GB ,device_status: ممتاز 
+E1-171-00007845,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,HP,,CZC8013ZRQ,,HDD,2.5GB,
+E1-171-00007846,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL, 3010,HPP0YX1,,HDD,1935,
+E1-171-00007847,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الصيدلية الخارجية ,,,Printer,Zebra,,29J171100487,,,,device_status: ممتاز 
+E1-171-00007912,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,DELL,9020,FTXMR12,,HDD,4005,
+E1-171-00007919,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,DELL,9020,1P9RR12,,HDD,4GB,device_status: ممتاز 
+E1-171-00007920,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الاستقبال - بدر الامرد ,,,PC,DELL, 9020,6TXMR12,,HDD,1108,device_status: ممتاز 
+E1-171-00007924,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,9020,8P9RR12,,HDD,1111,
+E1-171-00007956,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,عبد الرحمن السعد,,,PC,DELL,,6VHIR12,,HDD,4GB,device_status: ممتاز 
+E1-171-00007957,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,GSXMR12,,HDD,4GB,device_status: ممتاز 
+E1-171-00008171,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,اياد البقال,,,PC,Lenovo,,1S10AS0006AXPC05900P,,HDD,4GB,device_status: جيد جدا
+E1-171-00008176,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,باسل الجواد,,,PC,DELL,,1H09SG2,,HDD,,device_status: ممتاز 
+E1-171-00008215,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,78V2YX1,,HDD,8GB,
+E1-171-00008222,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,pc,DELL,,3VHLR12,,HDD,1086,
+E1-171-000085,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,افراح الغاوي,,,PC,DELL,9010,87V5YX1,,HDD,8GB ,
+E1-171-00008522,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL, 9020,JTHLR12,,HDD,4003,device_status: ممتاز 
+E1-171-00008589,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,9020,7VHLR12,,SSD,4GB,device_status: سيئ
+E1-17100008622,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد ,,,PC,DELL,,5VHLR12,,HDD,1098,
+E1-171-00008647,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,9020,CVHLR12,,HDD,4005,device_status: جيد
+E1-171-00008721,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الصيدلية الخارجية ,,,Printer,Zebra,,29J171003632,,,,
+E1-171-00008721,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الصيدلية الخارجية ,,,Printer,Zebra,,29J171003636,,,,device_status: جيد جدا
+E1-171-0000874,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,HP,,CZC9277DWV,,HDD,8GB ,device_status: جيد جدا
+E1-171-00008747,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,7060,FW0D3T2,,HDD,8GB,device_status: جيد
+E1-171-00008789,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL, 9020,JVXMR12,,HDD,4GB,
+E1-171-00008809,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,حسين علي احمد,,,PC,DELL,,CAV4YX1,,SSD,8GB ,device_status: سيئ
+E1-171-00008842,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,2HCKV2,,HDD,8GB,
+E1-171-00008943,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,حسن,,,PC,DELL, 3646,4PCSDY1,,HDD,4GB,device_status: ممتاز 
+E1-171-00008978,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,DELL,,HSV1122,,HDD,4GB ,device_status: جيد جدا
+E1-171-00008989,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD, ,,,Printer,HP,,CNCXG5VJGF,,,,
+E1-171-00009006,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نازك القطري,,,PC,HP,,CZC8014020,,HDD,1.07GB,device_status: ممتاز 
+E1-171-00009017,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نازك القطري,,,PC,DELL,9020,2GL0852,,HDD,4GB,device_status: ممتاز 
+E1-171-00011846,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL, 9020,HWXMR12,,HDD,4005,device_status: جيد جدا
+E1-171-00013085,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,HP,,CZC92789VZ,,HDD,,device_status: سيئ
+E1-171-00026528,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,Printer,HP,,CNDXK1R4PQ,,,,device_status: سيئ
+E1-17100028744,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد ,,,Printer,Zebra,,29J17102660,,,,
+E1-171-00035136,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الصيدلية الخارجية ,,,PRINTER,Zebra,,31J201001968,,,,
+E1-311-0000199,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,pc,DELL, 3020,2M45B32,,HDD,2046,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PRINTER,ZEBRA,,29j171102676,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PRINTER,EPSON,,X5DS021223,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,عيادة 33,,,Printer,Zebra,,54J131601274,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,عيادة 40,,,Printer,Zebra,,29200100282,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,,,1684SG2,,SSD,4GB ,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,HP,,CZC926FMX1,,HDD,8GB ,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نسرين القديحي,,,PC,Lenovo,,PC0XSEAG,,HDD,8GB ,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نسرين القديحي,,,PC,Lenovo,,CZC9277WTP,,HDD,8GB ,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,DELL,,22QQR12,,HDD,4GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,DELL,,61FCG2S,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,حسين,,,PC,DELL,,38788387094,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,81SCG2S,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نازك القطري,,,PC,DELL,,80QQR12,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,HP,,CZC930C1V,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,DELL,,2YSB3T2,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,Lenovo,,1S10AS0006AXPCO5903U,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PRINTER,POSSTORE,,2003119739,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,LENOVO,,9PCXH82,,HDD,4005,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PRINTER,POSSTORE,,2010105382,,,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,العيادات الخارجية ,,,Printer,Zebra,,54J143903057,,,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر االامرد,,,PC,DELL,,3T3T7X1,,HDD,3999,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,الاستقبال - بدر الامرد ,,,Printer,HP,,PHCRPC94QF,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,رضي ,,,Printer,Zebra,,31J201100117,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,Printer,,,3261A80C0344,,,,device_status: غير صالح للاستخدام
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,HP,,CZC7218H8Q,,HDD,3959,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,LENOVO,,1S10SA0006AXPC05902Q,,HDD,2143,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,C4v4yx1,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,2hckcv2,,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,Printer,Zebra,,54J131601233,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,العيادات الخارجية ,,,PC,DELL,,3sltq02,,HDD,204,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,العيادات الخارجية ,,,PC,EPSON,,3c89472603,,HDD,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نازك القطري ,,,Scanner,HP,,CNDXG781X3,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,نازك القطري ,,,PC,LENOVO,,1s10as00a9a,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,,D8TXXX1,,HDD,8079GB,
+E1-171-00012788,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPERATION ROOM,جميلة,,,PRINTER,HP,,CNCJN35987,,,,
+E1-171-00015215,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPERATION ROOM,رضا السلمان,,,PC,DELL,,73DR32S,,HDD,2GBE,
+E1-171-00016610,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPERATION ROOM,رضا,,,PC,DELL,,BPYMVB2,,HDD,4GB,device_status: جيد جدا
+E1-171-00017544,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Operation Room,رضا,,,PC,DELL,,JKNNWX1,,HDD,3983,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Operation Room,,,,Printer,Zebra,,31J201100129,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Operation Room,,,,Printer,HP,,PHCRPC93W4,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Operation Room,,,,Printer,HP,,CNDXK241XY,,,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPERATION ROOM,جميلة,,,PRINTER,Zebra,,29J171102613,,,,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPTHA,,,,PC,DELL,,279VG42,,HDD,4GB,device_status: جيد جدا
+E1-171-00003559,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPTHAL,,,,PC,DELL,,6RXMR12,,HDD,4005G+I40:W41B,
+E1-171-00003889,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPTHAL,,,,PC,DELL,,FRXMR12,,HDD,4005GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPTHAL,,,,PC,DELL,,9LLQWX1,,HDD,8079GB,device_status: ممتاز 
+E1-311-00001041,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPTIC DEPARTMENT,,,,PC,DELL,,4RD5DY1,,HDD,3497GB+I38:W39,device_status: 
+E1-171-00000634,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPTIC Department ,,,,PC,HP,,3CB947260R,,HDD,3038GB+K30:W31,device_status: ممتاز 
+E1-171-00015665,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OR/ANESTHESIA,عقيل,,,PC,DELL,,4HDSD82,,HDD,2GB,
+E1-171-00016277,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OR/ANESTHESIA,عقيل,,,PC,DELL,,GD6H6BS,,HDD,2GB,device_status: 
+E1-171-00017382,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OR/ANESTHESIA,جعفر العامر,,,PC,DELL,,7C6J3K2,i7,HDD,3GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OR/ANESTHESIA,عقيل,,,PC,DELL,,64VR32S,,HDD,4GB,
+E1-171-00003218,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,GL8M7B2,,SSD,4GB,device_status: جيد
+E1-171-00004891,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,CSED8N2,,SSD,8GB,device_status: ممتاز 
+E1-171-00005270,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,CVXMENZ,,SDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,HP,,TRF42101HD,,SSD,4GB,device_status: 
+E1-171-000100082,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education,ساره الدهان,,,PC,DELL,,HXG4TF2,,HDD,8GB,device_status: سيئ
+E1-171-00011200,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education,سارة الدهان,,,PC,HP,,TRF1360XQT,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education,,,,PRINTER,HP,,CNF8GDMJT1,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education,,,,PRINTER,HP,,TH8131N1M9,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education,,,,PC,HP,,CZC634BBGZ,,HDD,8GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education,ساره الدهان,,,PC,DELL,,HXF4TF2,,HDD,8GB,device_status: ممتاز 
+E1-171-00000857,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient /family education -,ساره الدهان,,,PC,DELL,,GK8M7BS,,HDD,2GB,device_status: جيد جدا
+E1-171-00000539,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PATIENT AFFAIR,ليلى الشيف ,,,PC,DELL,,3K26NW1,,HDD,3983,device_status: سيئ
+E1-171-00000687,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Patient Affair,غفران ال ابراهيم,,,PC,DELL,,1NGOJ5J,,HDD,4GB,device_status: ممتاز 
+E1-171-00000688,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PATIENT AFFAIR,فاطمة الشيخ,,,PC,DELL,,448PJ5J,,HDD,,
+E1-171-00000796,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PATIENT AFFAIR,فاطمة الشيخ,,,PC,DELL,,1NGQJ5J,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Patient Affair,,,,PRINTER,HP,,CNG9D3522K,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Patient Affair,,,,PRINTER,HP,,CNDXK241Y1,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Patient Affair,سحر امان,,,PC,DELL,,5RB6F2S,,HDD,2GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PATIENT AFFAIR,منتهى ,,,PC,HP,,7B7P3K2,,HDD,8000,
+E1-171-00011931,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,patient/family eduction,سارة الدهان,,,PC,DELL,,D3VH6BS,,HDD,2GB,
+E1-171-00015972,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PEDIATRIC,,,,PC,DELL,,17D9SG2,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PEDIATRIC,زينب ال طويل,,,PC,HP,,CZC926FN35,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PEDIATRIC,,,,PC,HP,,CZC926FN4S,,HDD,8036GB,
+E1- 171- 00002342,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ,,,PRINTER,Zebra,,40133246,,,,
+E1- 17100002274,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ,,,PRINTER,Zebra,,41J084702133,,,,device_status: ممتاز 
+E1- 171-00002332,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ ,,,PC,DELL,7040,2QYMVB2,,HDD,4GB,device_status: ممتاز 
+E1-171-00001882,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Pharmacy,فاضل صباخ ,,,PC,HP,,3CB00927M4,,HDD,2GB,device_status: جيد جدا
+E1-171-00001886,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ ,,,PC,CITYPOS,,3cb94725xL,,HDD,,device_status: جيد
+E1-171-00002211,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,DELL,,1571909542,,HDD,4GB,device_status: ممتاز 
+E1-171-00002227,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Pharmacy,مفيد حيان,,,PC,HP,,CZC926FMT2,,HDD,8GB ,device_status: ممتاز 
+E1-171-00002257,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,DELL,9020,BNK0852,,HDD,4GB,device_status: سيئ
+E1-171-00002261,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,,,,PC,DELL,,f,,HDD,8GB,
+E1-171-00002268,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,,,,PRINTER,Zebra,,41J092000357,,,,device_status: جيد
+E1-171-00002344,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ,,,PRINTER,HP,,Vmc6r08217,,,,device_status: ممتاز 
+E1-171-00002345,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,DELL,,7ZTR32R,,SSD,2GB,device_status: ممتاز 
+E1-171-00005907,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,اناس ال فتيح,,,PC,DELL,9020,1T9VG42,,HDD,4GB,device_status: ممتاز 
+E1-171-00006831,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Pharmacy,زكية,,,PC,DELL,9020,DTHLR12,,HDD,4GB,device_status: سيئ
+E1-17100006848,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ,,,PRINTER,Zebra,,41J092000851,,,,
+E1-171-00018563,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,اناس ال فتيح,,,PC,DELL, 9010,77SCG2S,,HDD,4GB,device_status: ممتاز 
+E1-311-00001720,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ,,,PC,DELL, 9020,Bnk0852,,HDD,4GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,,,,PC,HP,,CZC92789Z9,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,DELL,9020,9QXMR12,,SSD,4GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,HP,,10ZC9ZAFNAS,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,DELL, 7060,FPSD3T2,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,DELL, 780,7ZTR32S,,HDD,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,HP,,CZC9278306,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,HP,,CZC9277DX8,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,HP,,CZC926FMVJ,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,حسين سواري,,,PC,HP,,CZC92789WB,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Pharmacy,,,,PRINTER,HP,,CNDXJ3GHV1,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Pharmacy,مفيد حيان,,,PC,HP,,CZC926FMSD,,HDD,8GB ,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,الصيدلية ,,,PC,DELL,9020,9qxmr12,,HDD,4GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,فاضل صباخ ,,,PC,HP,,CZC92789TQ,,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,,,,PC,HP,,4ce145D75h,,HDD,8GB,device_status: 
+E1-171-00011519,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,علي العوازم,,,PC,DELL,6CSVGL2,6CSVGL2,,HDD,,device_status: ممتاز 
+E1-171-00011610,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,علي العوازم,,,PC,DELL,,SLJ0F82,,HDD,4GB,device_status: جيد جدا
+E-1-171-00013324,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,علي العوازم,,,PC,DELL,7040 ,783S3K2,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,علي العوازم,,,PC,DELL, 3050,6CYZGL2,,HDD,8GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,,,,PRINTER,HP,,CNDXJ3GHTM,,,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,,,,PRINTER,HP,,CNDXK3LOKD,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,,,,PRINTER,HP,,VNC5N34332,,,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,,,,PRINTER,HP,,VNF5Q28685,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,,,,PRINTER,HP,,CNCXJ3CBBY,,,,device_status: ممتاز 
+E1-1-171-00010996,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,LENOVO,,PCOZ3UT5,,HDD,8GB,device_status: ممتاز 
+E1-171-00009244,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,3050,6CMYGL2,,HDD,8GB,device_status: ممتاز 
+E1-171-00010952,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL, 9010,HLNMWX1,,HDD,8GB,device_status: ممتاز 
+E1-171-00010977,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,,6CPXGL,,HDD,,
+E1-171-00011558,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,3050 ,6CXVGL2,,HDD,8GB,device_status: ممتاز 
+E1-171-00011608,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,,28BBCV2,,HDD,8GB,device_status: جيد جدا
+E1-171-00011626,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,,6CQYGL2,,SSD,8GB,device_status: ممتاز 
+E1-171-00011630,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,HP,,020926FMX5,,HDD,8GB,device_status: ممتاز 
+E1-171-00013372,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,LENOVO,,PC0Z3U4S,,HDD,8GB,device_status: ممتاز
+E1-171-00013398,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,HP,,3CB947254K,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,,HBSNV42,,SSD,20GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,DELL,,1C37SG2,,SSD,4GB,device_status: غير صالح للاستخدام
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PICU,,,,PC,HP,,CZC930Q2J,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PICU,سكينه فريش,,,PC,DELL,,9PWJHT1,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PICU,سكينه فريش,,,PC,HP,,CZC930CQVQ,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,PC,HP,,CZC930CQ46,,HDD,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,PC,HP,مكرر,CZC930CQ6F,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,PC,HP,,CZC926FMSB,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,pc,HP,,CZC9277CX4,,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,PC,LENOVO,,CZC930CQ9X,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PRDIATRIC,نهاد الفرج,,,PC,DELL,,HNWFCM2,,HDD,4GB,device_status: ممتاز 
+E1-171-00008340,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,,,,PC,DELL,,1BH9SG2,,HDD,4GB,device_status: جيد
+E1-171-0000880,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,عبدالرزاق الغامدي,,,PC,DELL,,JZT0YXY1,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,عبد الرزاق الغامدي,,,PC,HP,,CZC9456NW9,Core 2 Quad,HDD,2GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,,,,PRINTER,HP,,PHCRPC94QR,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,,,,PRINTER,HP,,CNDXG781YD,,,,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,فاطمة الفرج-ولاء ال ابراهيم,,,PC,HP,,CZC92786TM,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PSYCATRIC,,,,Printer,Brother,,E66821M9J453243,,,,لا تعمل
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PUBLIC RELATIONS,عادل ال ناس,,,PC,DELL,,GB43N02,Core i3,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PUBLIC RELATIONS,باسم العصفور,,,PC,HP,,0200456K06,,HDD,3GB,device_status: جيد جدا
+5HD26Z1,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PURCHASE,بشير,,,PC,DELL,,1193774029,,HDD,8GB ,device_status: جيد جدا
+E1-171-00000744,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PURCHASE,غفران ,,,PC,DELL,,58SCG2S,Core i7,HDD,4GB,device_status: جيد جدا
+E1-171-00013067,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Purchase,,,,Printer,HP,,VNB8H46605,,,,device_status: ممتاز 
+E1-171-00013078,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Purchase,,,,PC,DELL,,83G16Z1,Core i7,HDD,4GB,device_status: جيد
+E1-171-00013080,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Purchase,,,,Printer,HP,,VNH5H00522,,,,device_status: جيد
+E1-171-00013104,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Purchase,,,,Printer,HP,,CNCJ792796,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Purchase,محمد باقر عبد العال,,,PC,HP,,4CE243B3H5,,SDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Purchase,,,,Printer,HP,,CNF9BCC0SB,,,,device_status: جيد
+E1-171_00004828,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة ععبد العزيز,,,PC,DELL,,1GJCSG2,,HDD,4GB,device_status: 
+E1-171-00004796,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة,,,PC,DELL,,44VR32S,Core i5,HDD,2GB,
+E1-171-00009701,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة ععبد العزيز,,,PC,DELL,,FZKC3T2,,HDD,8GB,device_status: جيد
+E1-171-00009710,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة ععبد العزيز,,,PC,DELL,,2GKCCV2,,HDD,4GB,device_status: 
+E1-171-00009711,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة,,,PC,CITYPOS,,C94725CB3,,HDD,2GB,device_status: 
+E1-171-00009713,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة,,,PC,DELL,,4FX5NW1,Core i3,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,,,,PRINTER,CANON,,F171902,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة ععبد العزيز,,,PC,HP,,3CB94725YG,,HDD,3GB+A191:W192,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة,,,PC,DELL,,2DTHCV2,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Qualty mangement&patient safety,,,,Printer,Brother,,E66821M9J452758,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Qualty mangement&patient safety,,,,PC,HP,,CN7CGC613P,,HDD,,device_status: جيد
+: E1-171-00001711,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Radiology,,,,PC,DELL,,B1VR32S,,HDD,,device_status: جيد
+E1-171-00001606,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Radiology,,,,PRINTER,HP,,VNH4R00480,,,,device_status: ممتاز 
+E1-171-00001613,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,HP,,CZC801408V,,HDD,2GB,device_status: ممتاز 
+E1-171-00001616,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,DELL,,8VTR32SE1-171-,,HDD,2GB,device_status: 
+E1-171-00001712,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Radiology,,,,PC,DELL,,S2KHCG7,,HDD,,device_status: جيد
+E1-171-00001717,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Radiology,,,,PC,DELL,,25QQR12,,HDD,4004,device_status: ممتاز 
+E1-171-00001724,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Radiology,,,,PRINTER,HP,,CNDXJ3GHSY,,,,device_status: جيد
+E1-171-00001770,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,HP,,CZC90329N5,,HDD,3GB,device_status: 
+E1-171-00002054,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,HP,,CZC8014HZJ,,HDD,2GB,device_status: ممتاز 
+E1-171-0001829,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,DELL,,GBXLHT1,,HDD,4GB,device_status: غير صالح للاستخدام
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,HP,,CZC92789TT,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,HP,,8DWKHT1,,HDD,4GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Radiology,كميل ال قاوز,,,PC,DELL,,J78PJ5J,,HDD,,
+E1-171-00005492,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,زينب الحمود,,,PC,DELL,,7DBG3K2,,HDD,,device_status: 
+E1-171-00005787,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,زينب الحمود,,,PC,DELL,,BNTYF2S,,HDD,4GB,device_status: جيد
+E1-171-00021482,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,زينب الحمود,,,PC,DELL,,CZC11980N,,HDD,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,,,,Printer,HP,,VNH5H00558,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,زينب الحمود,,,PC,HP,,CZC926FMW8,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,زينب الحمود,,,PC,HP,,CZC926FMWW,,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RDU,,,,PC,,,118N32S,,HDD,1978GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Rehabilitation therapy,,,,PC,HP,,CZC930COSN,,HDD,,device_status: 
+E1-171-00032728,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RESPIRATORY THERAPY,,,,LAPTOP,,,BNXPM22305000521,,HDD,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Respiratory therapy,,,,Printer,HP,,VNC3B10698,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Safety,,,,PC,Acer,,E117100018276,,HDD,3GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Safety,,,,PC,HP,,CZC9277XD,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SCBU/Nursery,ابتهال الدرويش,,,Priner,Zebra,,31J201001973,,,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SCBU/Nursery,ابتهال الدرويش,,,Priner,HP,,CNDXJ3GHHP,,,,device_status: 
+E1-171-00004328,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Social Worker,فاطمه,,,PC,DELL,,855ZD2S,,HDD,,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Social Worker,,,,PRINTER,HP,,VNC6G69114,,,,device_status: جيد
+E1-171-00005065,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Social Worker,فاطمة,,,PC,DELL,,DXH7101,,HDD,2GB,
+E1-171-00013667,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SUPPLY,,,,PRINTER,EPSON,,LKXH007839,,,,device_status: 
+E1-171-00013678,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SUPPLY,,,,PRINTER,HP,,VNF6J24406,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SUPPLY,,,,PC,HP,,4CE145D77N,,HDD,8GB,device_status: ممتاز 
+E1-171-000017902,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SURGERY,محمد,,,PC,HP,,KK347ESABV,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Surgery,,,,PRINTER,HP,,PHCQB12861,,,,
+E1-171-00000802,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Transportation,حسن السنان,,,PC,DELL,,GNSLVQ1,,HDD,8GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Transportation,,,,PRINTER,BROTHER,,E66821M9J453227,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,UROLOGY,,,,PC,HP,,4CE243B3HK,,HDD,8GB,
+E-1-197-00000155,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Vaccine center,نسرين,,,PC,LENOVO,,PCOXSGBP,,HDD,8GB,
+E1-197-00000451,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Vaccine center,نسرين,,,PC,LENOVO,,Pc0xsGBJ,,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Vaccine center,نسرين,,,PC,LENOVO,,PCOXSGNA,,HDD,8GB,device_status: جيد جدا
+E1-171-00009778,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,اطباء اطفال,,,,PC,HP,,CZC8014HY5,,HDD,,device_status: 
+E1-171-00003926,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,التشغيل والصيانة,سارة الصفار,,,PC,DELL,,797R3K2,,HDD,4GB,device_status: جيد
+E1-171-00014658,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,التشغيل والصيانة,غفران الحيثه,,,PC,DELL,,2GQKCV2,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,التشغيل والصيانة,محمد الشويخات,,,PC,HP,,CZC0197S2F,,HDD,8GB,device_status: غير صالح للاستخدام
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,التشغيل والصيانة,,,,PC,HP,,CZC0197559,,HDD,8GB ,device_status: سيئ
+E1-171-00020091,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,التطوير المهني للتمريض,,,,PRINTER,HP,,CNCW4CJKB8,,,,
+E1-171-00022682,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,DELL,,64LM4G3,,HDD,12GB,device_status: ممتاز 
+E1-171-00022695,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,DELL,,J9BJLF1,,HDD,2GB,device_status: ممتاز 
+E1-171-00023305,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,DELL,,FBTZXX1,,HDD,8GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,DELL,,8DZL32S,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,,,,PRINTER,HP,,CNDXK1R4L3,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,,,,PRINTER,HP,,CNDXK3LONM,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,DELL,,F0QRD5J,,HDD,4GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,DELL,,3GW3VQ1,,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,HP,,GD8595V,,HDD,,
+E1-171-00009822,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,المهارات الفنية,أحلام المرهون ,,,PC,DELL,,BXRT632,,HDD,4GB,device_status: ممتاز 
+E1-171-0002823,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,المهارات الفنية,احلام المرهون,,,PC,DELL,,HSK3TF2,,HDD,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,المهارات الفنية,أحلام المرهون ,,,PRINTER,DELL,,PHCGB12871,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,تشغيل والصناعة,,,,PC,HP,,CZC0197540,,HDD,8GB ,device_status: جيد
+E1-171-00000009,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,فضيلة الفرج,,,PC,DELL,,GSWJHT1,I5,HDD,4GB,device_status: 
+E1-171-00000390,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,DELL,380,22358BS,,HDD,,device_status: 
+E1-171-00000393,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,هادي ال مدن,,,PC,HP,,PC0XSHYL,,HDD,8GB,device_status: 
+E1-171-00000691,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,ابو علي,,,PRINTER,CANON,,GXJ10854,,,,device_status: 
+E1-171-00000695,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,علي الخضراوي,,,PC,DELL,9010,BHNBG2S,,HDD,4GB,device_status: 
+E1-171-00000698,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,علي الخضراوي,,,PC,DELL,Inspiron 660s,JSWGHT1,,HDD,4GB,device_status: 
+E1-171-00000699,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,أبو علي,,,PRINTER,CANON,,QCH-01409-53910,,,,device_status: جيد
+E1-171-00000908,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,أبو علي,,,PRINTER,CANON,,GX437424,,,,device_status: جيد
+E1-171-00000925,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,ابو علي,,,PRINTER,HP,,VNC6R08219,,,,device_status: جيد
+E1-171-00001051,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,أبو علي ,,,PRINTER,HP,,QCH-01406-53918,,,,
+E1-171-00001062,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,أبو علي,,,PRINTER,CANON,,GXJ11272,,,,device_status: جيد جدا
+E1-171-00010141,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,فاضل الموسى,,,PC,HP,,CZC801408J,,HDD,,device_status: ممتاز 
+E1-171-00013455,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,,,,3CB94725FL,,HDD,,
+E1-171-00015082,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,LENOVO,,1S10AS0006AXPC05903L,,HDD,4009GB,device_status: ممتاز 
+E1-171-00019760,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,DELL,,82VR32S,,HDD,,device_status: ممتاز 
+E1-171-00021045,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,HP,,CZC8015951,,HDD,2550GB,
+E1-171-0006326,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,أطباء الجراحة,,,PC,HP,,CZC9027WQ1,,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,HP,,CZC926FNG4,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,زكية,,,PC,DELL,,D2Q+A178:T179QR12,,HDD,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,FUJITSU,,YLCM132536,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,,DELL,7050,313M3K2,I5,HDD,8GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,DELL,780,B2VR32s,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,Printer,POSSTORE,,2010105548,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,Scanner,Zebra,,29j194000425,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,,DELL, 7050,JLP5RG2,I5,HDD,16GM,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,Laptop,DELL,7050 ,6CBRHR1,,HDD,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PRINTER,CANON,,L11121E,,,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,فاضل الموسى,,,PC,HP,,4CE243B3F4,,HDD,930GB,device_status: جيد جدا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,DELL,,CZC930CQ4H,,HDD,8036GB,device_status: سيئ
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PRINTER,HP,,PHCRPC94Q6,,,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,HP,,4CE145D7H1,,HDD,7969GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,HP,,4CE145D75J,,HDD,7969GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,DELL,7040 ,1GVBSG2,,HDD,3980GB,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,علي الخضراوي,,,PC,DELL,9020,FTM0852,,HDD,4GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PRINTER,HP,,PHKFF18360,,,,device_status: ممتاز 
+E1-171-00005900,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,BLOOD BANK & LABORATORY,نرجس الطريحي,,,PC,DELL,,5509SG2,Core i7,HDD,8GB,
+E1-171-00003116,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood bank and laboratory,محمد عبدالله ,,,Laptop,DELL,,H8T2122,i7,HDD,4GB,device_status: جيد
+E1-311-00001562,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,EMERGENCY ROOM,زينب العلوي,,,PC,DELL,,78GK3K2,I7,HDD,8GB,
+E1-171-0001377,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INVENTORY CONTROL,حكيم درويش,,,PC,DELL,,5HD26Z1,Core I7,HDD,4GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,حمدة الشريفة,,,PC,HP,,CZC926FN09,,HDD,8GB,device_status: ممتاز 
+E1-171-00003199,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,HN681Q1,,SSD,8GB,
+E1-171-00004883,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,1J33SG2,,SSD,8GB,device_status: 
+E1-171-00005210,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,CXQK8N2,,SSD,8GB,
+E1-171-00005223,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,CHHM8N2,,SSD,12GB,device_status: ممتاز 
+E1-171-00005237,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,CWHL8N2,,HDD,4GB,device_status: 
+E1-171-00005239,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,DELL,,16K4SG2,,SSD,16GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OWN RESOURCES,محمد البهلول,,,PC,HP,,CZC634BBRY,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,فاضل الموسى,,,PC,DELL,,5W3J1M2,I5,HDD,8GB,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC9277DWW,,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC930CQ1X,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 380,H95H6BS,,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP HP Pro,‏TRF1360XQT‏,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9020,"D2QQR12
+",,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP HP Compaq,GD8595v,,HDD,,
+,,,,,,,,,,,,,,,pc,lenovo,Lenovo,1510KW005NAXPCODESOY,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9010,87v5yx1,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9020,6vhlr12,,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP HP Pro,CZC11980VN,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 7040,2RYMVB2,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9010,Dj17F2A,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9020,7800R12,,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,4CE10706V4,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9010,2MNM8YX1,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 7060,2HCKCV2,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9010,5PTYF2S,,HDD,,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 7040,7C2Q3K2,,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC926FMWK,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,HP HP Compaq,CZC8013ZSP,,HDD,2.5,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 7040,GaYMVB2,,HDD,4,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,1CZ1240318,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC926FN07,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC926FNGJ,,HDD,8GB,
+,,,,,,,,,,,,,,,pc,,,SH67H00401D02F00588,,HDD,16,
+,,,,,,,,,,,,,,,pc,hp,HP HP Compaq,3CB9472603,,HDD,2,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC930CQ1V,,HDD,4,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 780,1ZTR32S,,HDD,1.07,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9020,DQK3S12,,HDD,4,
+,,,,,,,,,,,,,,,pc,hp,HP HP Compaq,CZC801408K,,HDD,4,
+,,,,,,,,,,,,,,,pc,hp,HP HP Pro,CZC119BD43,,HDD,4,
+,,,,,,,,,,,,,,,pc,hp,HP HP Compaq,CZC80144Q1,,HDD,,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,‏CZC9277FCC,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC926FNBZ,,HDD,8,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 780,F1VR32S,,HDD,8,
+,,,,,,,,,,,,,,,pc,lenovo,Lenovo Thinkcentre,1510AS0006AXPC059020,,HDD,4,
+,,,,,,,,,,,,,,,pc,dell,Dell Optiplex 9010,8NGQJ5J,,HDD,4,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D75P,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D779,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D7GT,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D7GN,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D7SS,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D75N,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D7Gs,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D75H,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D7H9,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC9277CWL,,HDD,8 GB,
+,,,,,,,,,,,,,,,pc,hp,Hp Elitedisk,4CE145D75F,,HDD,8,
+,,,,,,,,,,,,,,,pc,hp,HP Prodesk 400 G5,CZC9277DH9,,HDD,8,
+,,,,,,,,,,,,,,,,,,"4CE243B3JM
+",,,,
+E1-171-00009309,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHISOTHRAPY,علي العوازم,,,PC,ACER,ASPIRE E5-573 SERIES,NXMVJEM0055180806F7600,,HDD,GB,device_status: 
+E1-171-00009341,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,, Phisotherapy,علي العوازم,,,PC,DELL,OptiPlex 7060,2KDJCV2,,HDD,8GB,
+,,,,,,,,,,,,,,,pc,DELL,Dell Optiplax 7080,28YJCV2,,hdd,8,
+,,,,,,,,,,,,,,,,DELL,,3CB94725X9,,HDD,2,
+,,,,,,,,,,,,,,,pc,hp,PRODESK,CZC926FN45,,hdd,8,
+,,,,,,,,,,,,,,,,hp,PRODESK,CZC601408S,,hdd,4,
+,,,,,,,,,,,,,,,pc,dell,3020,5hkqr12,i3,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,,,,PRINTER,ZEBRA,,29j171102659,,,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,,,,PC,hp,compaq,3cb9472505,,HDD,8GB,device_status: ممتاز
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DIETITIAN,باسل ال طلاق,,,PC,hp,PRODESK,czc926fnh9,,HDD,2GB,device_status: ممتاز
+E1-171-00000886,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Finace,,,,PC,hp,,4cv329lop,i7,HDD,2GB,device_status: ممتاز 
+E1-171-00013103,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Finace,,,,PC,hp,PRODESK,8cg95119y7,,hdd,8GB,device_status: ممتاز 
+E1-171-00020396,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMS,جميل العليوات,,,PC,DELL,9010,38v2yx1,i5,HDD,,device_status: ممتاز 
+E1-171-00014470,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Inventory control,مقبل الشمري,,,PC,hp,COMPAQ,czc80159tn,core2,HDD,,device_status: 
+E1-171-00008719,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL COORDINATION,,,,PC,DELL,7040,2ydlrm3,i5,HDD,,
+E1-171-00018466,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,HP,9010,7ysxxx1,i5,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Medical Record,حميد الشاخوري,,,PC,dell,9020,gb43n02,i5,HDD,,device_status: ممتاز 
+E1-171-00000541,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,نضال المطيلق,,,PC,LENOVO,,1s10kw0068axpc0h053y,i5,HDD,4GB,device_status: غير صالح للاستخدام
+E1-171-0001596,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICAL REPORT,,,,PC,HP,pro,czc9456nw9,core2,HDD,,device_status: 
+E1-171-000140079,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,قاسم,,,PC,DELL,390,hxprd5j,i3,HDD,,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NURSING ADMINISTRATION,زينب شيخ عبدلله,,,PC,dell,780,7wtr32s,core2,HDD,,
+E1-171-00018878,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Nursing Administration services,زينب الشيخ عبدالله,,,PC,DELL,9010,dyt4yx1,i5,HDD,,
+E1-171-0000995,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,,,,PC,leNOVO,thinkcenter,pc0xsgn9,i5,HDD,,
+E1-171-00007624,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Occupational Health,هاجر ال كاظم,,,PC,HP,PRODESK,czc926fmwp,i5,HDD,,
+E1-171-00000440,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد,,,PC,LENOVO,thinkcenter,1s10as0006axpc05902w,i7,HDD,,device_status: جيد جدا
+E1-171-00006833,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,مفيد حيان,,,PC,DELL,9010,2mlqwx1,,HDD,8GB ,device_status: ممتاز 
+E1-171-00008466,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,7060,g1x83t2,i7,HDD,,
+E1-171-00029760,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,,,,PC,DELL,9010,hgrt582,i5,HDD,,device_status: جيد
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Operation Room,,,,pc,DELL,990,925zb5j,i7,HDD,,device_status: جيد
+E1-171-00016322,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PEDIATRIC,زينب ال طويل,,,PC,DELL,,7bcm3k2,i7,HDD,4GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PEDIATRIC,زينب ال طويل,,,PC,HP,PRODESK,czc0197rxd,i5,HDD,,device_status: جيد
+E1-171-000178165,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PEDIATRIC SURGERY,,,,PC,HP,PRODESK,czc0197s55,i5,HDD,,
+E1-71-00002266,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,,,,PC,DELL,755,cwfjlf1,core2,HDD,,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Pharmacy,ازهار ال محسن,,,PC,DELL,780,1ztr32s,,HDD,8GB,device_status: 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Phisotherapy,رئيس قسم العلاج الطبيعي,,,PC,Acer,aspire,pvsfde900212000d273000,,HDD,6GB,device_status: جيد جدا
+E1-171-00004796,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Quality management & patient safety,معصومة,,,PC,dell,780,41vr32s,,HDD,2,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,RADIOLOGY,كميل احمد,,,PC,dell,7040,79ms3k2,i7,HDD,,device_status: غير صالح للاستخدام
+E1-311-00002515,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Transportation,حسن السنان,,,PC,DELL,380,الخدمة الاجتماعية716,,HDD,2,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,الطب الوقائي,حسين الزاهر,,,PC,hp,pro,czc9456ksv,core2,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,dell,9010,1v8pj5j,i5,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,رئيس قسم العظام,,,PC,acer,aspire,pvsfde900212000de3000,,HDD,8GB,device_status: ممتاز 
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,يزيد,,,PC,dell,9020,bvpqr12,i7,HDD,,device_status: جيد
+,,,,,,,,,,,,,,,pc,hp,pro,czc926fmwm,core2,hdd,,
+,,,,,,,,,,,,,,,pc,hp,pro,czc926fmxc,core2,hdd,,
+,,,,,,,,,,,,,,,pc,dell,7040,16lcsg2,i7,HDD,,
+,,,,,,,,,,,,,,,pc,LENOVO,thinkcenter,1s10as0006axpcosa1tx,I7,HDD,,
+,,,,,,,,,,,,,,,,dell,9020,bzql322,i7,hdd,4,
+,,,,,,,,,,,,,,,pc,hp,compaq,czc8014hyg,core2,hdd,,
+,,,,,,,,,,,,,,,pc,hp,cpmpaq,czc80144n9,core2,hDD,,سيء
+,,,,,,,,,,,,,,,pc,hp,compaq,3cb9472687,core2,,,
+,,,,,,,,,,,,,,,pc,hp,cpmpaq,czc80159yj,core2,hdd,,bad
+,,,,,,,,,,,,,,,pc,dell,7060,5lrc2s2,i5,hdd,,
+,,,,,,,,,,,,,,,pc,LENOVO,,pc0ul6w8,i7,hdd,4,لايعمل
+,,,,,,,,,,,,,,,PC,LENOVO,thinkcenter,1S10AS0006AXPC05BLG8,i7,HDD,,
+,,,,,,,,,,,,,,,pc,,compaq,czc501408s,core2,hdd,2,
+E1-171-00006587,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW,مريم طويلب,,,PC,DELL,,8LXMVB2,,HDD,4GB,Very Good/ جيّد جدّا
+E1-171-00010323,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,دعاء المعلم,,,PC,DELL,,B7LJWX1,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW,مريم طويلب,,,PC,HP,,CZC926FMTT,,HDD,8GB,Very Good/ جيّد جدّا
+E1-171-00019522,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSW,سكينة قريش,,,PC,DELL,,DQYMVB2,,HDD,4GB,Very Good/ جيّد جدّا
+E1-171-00006383,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,DAY SURGERY,زينب النخلي,,,PC,DELL,,24V1YX1,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,مريم القمر,,,PC,HP,,CZC927898D,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NURSING ADMINISTRATOR SERVICE,منال الجيزان,,,PC,HP,,CZC9277DBG,,HDD,8GB,Very Good/ جيّد جدّا
+E1-171-00012055,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,LABOUR & DELIVERY,مريم القمر ,,,PC,HP,,CZC930CQ27,,HDD,8GB,Very Good/ جيّد جدّا
+E1-171-00001581,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,هبة المشامع,,,PC,LENOVO,,1S10AS0006AXPC059035,,HDD,109GB,Very Good/ جيّد جدّا
+E1-171-00022887,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,DELL,,2Q9RR12,,HDD,4GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Blood Bank And Laboratory,مصط ى ف الاسود,,,PC,HP,,CZC926FMY3,,,4GB,Very Good/ جيّد جدّا
+E1-171-00007765,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Nursing Administration services,زينب الشيخ عبدالله,,,PC,DELL,,CJNBG2S,,,4GB,Very Good/ جيّد جدّا
+E1-171-00001250,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,صفاء,,,PC,DELL,,16LCSG2,,,4GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Electronic Health,سارة القريافي,,,PC,LENOVO,,1S10AS0006AXPCOSA1TX,,,4GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,,,,PRINTER,ZEBRA,,29J171003607,,,,Very Good/ جيّد جدّا
+E1-171-00004352,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,Social Worker,فاطمه,,,PC,DELL,,2LF78BS,,,2GB,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/A,نجيب محمد علي,,,PC,HP,,CZC92789V5,,,8GB,
+E1-171-00000467,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,PC,HP,,3CB94725CV,,HDD,2GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,مازن,,,PC,DELL,,CZC930CQ4W,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,ICU/B,نجيب,,,,,,272229504,,HDD,,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,حمده,,,PC,DELL,,CDTXXX1,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,دعاء المعلم,,,PC,DELL,,D3KKWX1,,HDD,,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,دعاء المعلم,,,PC,DELL,,2GGKCV2,,HDD,,Very Good/ جيّد جدّا
+E1-171-0001440,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,دعاء المعلم,,,Priner,HP,,VNC6H05999,,,,Very Good/ جيّد جدّا
+E1-171-00010466,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,NICU,ibtihal,,,PC,DELL,,7BQR3K2,,HDD,,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,SCBU/Nursery,ابتهال الدرويش,,,PC,DELL,,D2RMHT1,,HDD,3983,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW,,,,PRINTER,ZEBRA,,29J220203765,,,,Very Good/ جيّد جدّا
+E1-171-00019467,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSW,,,,PC,DELL,,95V0YX1,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSW,,,,PC,DELL,,2HKBCV2,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSW,,,,PC,DELL,,2F0GCV2,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MSW,,,,PC,DELL,,2MLQWX1,,HDD,4GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PICU,,,,PC,HP,,CZC930CQ5T,,HDD,8GB,Very Good/ جيّد جدّا
+E1-171-00021446,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,PC,DELL,,GKYMVB2,,HDD,4GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PMW,زينب انتيف,,,PC,DELL,,78V5YX1,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OBW,,,,PC,HP,,4CE243B3H7,,,,Very Good/ جيّد جدّا
+E1-171-00032409,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,GYN-OB,,,,PC,HP,,8CG8306805,,HDD,3972,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,GYN-OB,رئيس برنامج النساء والولادة,,,PC,HP,,4CE243B3K6,,HDD,7969,Very Good/ جيّد جدّا
+E1-171-00006313,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW ,مريم طويلب,,,PC,DELL,,4F6H6BS,,HDD,2012,Very Good/ جيّد جدّا
+E1-171-00023717,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FSW ,,,,PC,DELL,,794M3K2,,HDD,3980,Very Good/ جيّد جدّا
+E1-171-00007043,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,FMW,حمده,,,PC,DELL,,G01H3T2,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,قاسم,,,PC,HP,,CZC92789V4,,HDD,8GB,Very Good/ جيّد جدّا
+E1-171-00012828,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,جهاز مشترك,,,PC,DELL,,28MGCV,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,فاطمة إبراهيم ,,,PC,HP,,4CE145D7GS,,HDD,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,MEDICINE,ناصر ال علي,,,PC,HP,,CZC950BV2Z,,,8GB,Very Good/ جيّد جدّا
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,OPD,بدر الامرد ,,,PC,DELL,,Bc8pj5j,,HDD,4GB,Very Good/ جيّد جدّا
+E1-171-00002261,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,PHARMACY,,,,PC,DELL,,2CZPFS2,,HDD,8GB,Very Good/ جيّد جدّا
+E1-171-00014050,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,HP,,3CB947260V,,HDD,2014GB,Very Good/ جيّد جدّا
+E1-171-0002194,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,HP,,CZC8014028,,HDD,2038GB,Very Good/ جيّد جدّا
+E1-171-00014017,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,DELL,,2JXBLF1,,HDD,2005GB,
+E1-171-00014055,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,ACER,,PVSFDE900212000DFR3000,,HDD,2985GB,
+E-1-171-00014063,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,INFECTION CONTROL,,,,PC,DELL,,HHNBG25,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,HP,,CZC8015B05,,HDD,,
+,E1,General Hospital/ مستشفى عام,QCH,Estern Province,,,,,,,,,,,PC,HP,,CZC80159X1,,HDD,2550GB,
